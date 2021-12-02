@@ -1,6 +1,11 @@
-![Responsice Mockup](![Nav Bar](https://github.com/saksham-r/DV_IA2_201_Pyanshi_204_Saksham_Covid-19_Cases_and_Vaccinations/blob/main/images/logo.png))
+![Nav Bar](https://github.com/saksham-r/DV_IA2_201_Pyanshi_204_Saksham_Covid-19_Cases_and_Vaccinations/blob/main/images/logo.png)
 
 # Tableau - Covid-19 Cases and Vaccinations
+This repository contains:
+-	Tableau Workbook
+-	Datasets used
+-	Screenshots
+
 
 ## Screenshots
  
