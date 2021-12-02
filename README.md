@@ -21,7 +21,7 @@ This repository contains:
 
 
 
-## This is for IA-2 for subject H-DV by:
+## Contributors
 
   - Pyanshi Jain    16010120201
   - Saksham Raina   16010120204
