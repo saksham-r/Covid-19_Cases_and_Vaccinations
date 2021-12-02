@@ -23,6 +23,10 @@ This repository contains:
 
 ## Contributors
 
-  - Pyanshi Jain    16010120201
-  - Saksham Raina   16010120204
-  <br />Batch-5
+  - Pyanshi Jain&emsp16010120201
+  - Saksham Raina&emsp16010120204
+  <br/>Batch-5
+  
+  ## Links for dataset used
+   -  https://www.kaggle.com/imdevskp/corona-virus-report
+   -  https://www.kaggle.com/gpreda/covid-world-vaccination-progress
