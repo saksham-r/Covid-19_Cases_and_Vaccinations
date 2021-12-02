@@ -23,8 +23,8 @@ This repository contains:
 
 ## Contributors
 
-  - Pyanshi Jain&emsp16010120201
-  - Saksham Raina&emsp16010120204
+  - Pyanshi Jain&nbsp;16010120201
+  - Saksham Raina&nbsp;16010120204
   <br/>Batch-5
   
   ## Links for dataset used
